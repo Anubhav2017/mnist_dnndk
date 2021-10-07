@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/anubhav/Desktop/MNIST_DNNDK_lab/chkpts/float_model.ckpt"
+all_model_checkpoint_paths: "/home/anubhav/Desktop/MNIST_DNNDK_lab/chkpts/float_model.ckpt"
